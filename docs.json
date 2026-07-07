@@ -173,7 +173,8 @@
 					"operations/customer-experience/operational-dashboard",
 					"operations/customer-experience/alpha-timing",
 					"operations/customer-experience/driver-sign-on",
-					"operations/customer-experience/driver-training-program"
+					"operations/customer-experience/driver-training-program",
+					"operations/customer-experience/change-parent-email"
 				  ]
 				},
 				{
